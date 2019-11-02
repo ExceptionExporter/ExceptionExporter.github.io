@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Kimusinee's Pages
 
-You can use the [editor on GitHub](https://github.com/ExceptionExporter/ExceptionExporter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+깃 블로그 생성! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### MAGA : MAKE ALL GREEN AGAIN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+초록 잔디를 심어보자 
 
 ```markdown
 Syntax highlighted code block
